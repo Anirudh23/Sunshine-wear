@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Anirudh/Desktop/Android/Sunshine/wearable/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/Anirudh/Desktop/Android/Sunshine/wearable/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-7bfed45883ede482ece933d14d6f4a6b0fab5bdc.jar" />
+    </item>
+    <item
+        jar="/Users/Anirudh/Documents/AndroidSdk/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/Users/Anirudh/Desktop/Android/Sunshine/wearable/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-b2f4cd332ede70169eb9e0643b782ae4607eeaf5.jar" />
+    </item>
+    <item
+        jar="/Users/Anirudh/Desktop/Android/Sunshine/wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.8.0/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="c0c912d58c9468b1f9d9769c8975afdf2c85d681">
+        <dex dex="/Users/Anirudh/Desktop/Android/Sunshine/wearable/build/intermediates/pre-dexed/debug/classes-9dacfe7fa34e287b31825798c1e57d67a5469a0b.jar" />
+    </item>
+    <item
+        jar="/Users/Anirudh/Desktop/Android/Sunshine/wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.3.0/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="58b928ccbaf9090c632f278d6bd31e1ae42f2457">
+        <dex dex="/Users/Anirudh/Desktop/Android/Sunshine/wearable/build/intermediates/pre-dexed/debug/classes-4f840c92103d34d7597d21cffc1ab33b2a34709d.jar" />
+    </item>
+    <item
+        jar="/Users/Anirudh/Desktop/Android/Sunshine/wearable/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="c6d79137693d494dee16372d3921f919eb724ced">
+        <dex dex="/Users/Anirudh/Desktop/Android/Sunshine/wearable/build/intermediates/pre-dexed/debug/classes-fea1b158e77df51b5a0ea5cd9bfe7f9efa6807b8.jar" />
+    </item>
+    <item
+        jar="/Users/Anirudh/Desktop/Android/Sunshine/wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.8.0/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="c5cafb324568d954780abb858c25db7ce675ab3c">
+        <dex dex="/Users/Anirudh/Desktop/Android/Sunshine/wearable/build/intermediates/pre-dexed/debug/classes-49e16c793cb53fcac10048a1714270a7fc69cc15.jar" />
+    </item>
+    <item
+        jar="/Users/Anirudh/Desktop/Android/Sunshine/wearable/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/Anirudh/Desktop/Android/Sunshine/wearable/build/intermediates/pre-dexed/debug/classes-f9b2569e84aa833b0205bec029d1404985982576.jar" />
+    </item>
+
+</items>
